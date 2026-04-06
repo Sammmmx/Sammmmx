@@ -7,7 +7,7 @@ Auction systems, Voting systems, Scholarship credit systems
 Tested with Hardhat and deployed on Sepolia testnet
 
 Tech Stack:
-Solidity | Hardhat | Ethers.js | OpenZeppelin
+Solidity | Hardhat | Ethers.js | OpenZeppelin | Typescript |
 JavaScript | Node.js
 
 Education:
