@@ -4,7 +4,7 @@ A passionate Solidity Smart Contract Developer based in Mumbai, India, focused o
 What I have built:
 ERC-20 tokens, Staking contracts, Upgradable contracts, Multi Signature Wallet, 
 Auction systems, Voting systems, Scholarship credit systems
-Tested with Hardhat and deployed on Sepolia testnet
+All Tested with Hardhat and deployed on Sepolia testnet
 
 Tech Stack:
 Solidity | Hardhat | Ethers.js | OpenZeppelin | Typescript |
