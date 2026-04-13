@@ -1,5 +1,5 @@
 Hi, I'm Samyak Narnaware
-A passionate Smart Contract Developer based in Mumbai, India, focused on building secure, gas-optimized contracts on Ethereum.
+A passionate Solidity Smart Contract Developer based in Mumbai, India, focused on building secure, gas-optimized contracts on Ethereum.
 
 What I have built:
 ERC-20 tokens, Staking contracts, Upgradable contracts, Multi Signature Wallet, 
