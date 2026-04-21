@@ -18,8 +18,8 @@ Rust | Solidity | Hardhat | Ethers.js | OpenZeppelin |
 TypeScript | JavaScript | Node.js
 
 ## Education:
-- Master in Computer Applications (Artificial Intelligence specialization) graduating July 2026
-- Bachelors in Arts graduated 2023
+- MCA with AI graduating July 2026
+- BA graduated 2023
 
 ## Certifications:
 - Blockchain A-Z - Udemy x SuperDataScience
