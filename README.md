@@ -6,7 +6,7 @@ blockchain infrastructure in Rust.
 
 ## What I have built:
 - 3 production-ready smart contracts (ERC-20, ERC-721 with
-  Royalties, Multi-Sig Wallet) — developed, tested with Hardhat,
+  Royalties, Multi-Sig Wallet) — developed, tested with Hardhat
   and deployed on Sepolia
 - 6+ additional smart contracts including staking, auctions,
   upgradable proxy contracts, and voting systems
