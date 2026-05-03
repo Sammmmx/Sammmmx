@@ -5,11 +5,7 @@ Building secure smart contracts on Ethereum and low-level
 blockchain infrastructure in Rust.
 
 ## What I have built:
-- 3 production-ready smart contracts (ERC-20, ERC-721 with
-  Royalties, Multi-Sig Wallet) — developed, tested with Hardhat
-  and deployed on Sepolia
-- 6+ additional smart contracts including staking, auctions,
-  upgradable proxy contracts, and voting systems
+- 10+ smart contracts including staking, auctions, subscriptions and voting systems
 - Blockchain core from scratch in Rust — PoW mining, Merkle trees,
   ed25519 signatures, mempool, and account state management.
 
