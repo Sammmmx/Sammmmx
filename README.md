@@ -5,6 +5,7 @@ Building secure smart contracts on Ethereum and low-level
 blockchain infrastructure in Rust.
 
 ## What I have built:
+- Nexus Auctions (Dapp): Allows sellers to start owner approved ETH timed auctions. Upgrading to Token transactions.
 - 10+ smart contracts including staking, auctions, subscriptions and voting systems
 - Blockchain core from scratch in Rust — PoW mining, Merkle trees,
   ed25519 signatures, mempool, and account state management.
