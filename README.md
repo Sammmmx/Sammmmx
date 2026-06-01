@@ -11,10 +11,10 @@
 
 ## Tech Stack:
 Rust | Solidity | Hardhat | Ethers.js | OpenZeppelin |
-TypeScript | JavaScript | Node.js
+TypeScript | JavaScript | Node.js | Slither
 
 ## Education:
-- MCA with AI graduating July 2026
+- MCA graduating July 2026
 - BA graduated 2023
 
 ## Certifications:
