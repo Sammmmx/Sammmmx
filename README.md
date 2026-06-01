@@ -1,8 +1,7 @@
 # Samyak Narnaware
+### MCA student based in Mumbai, India
 
-Blockchain Developer based in Mumbai, India.
-Building secure smart contracts on Ethereum and low-level
-blockchain infrastructure in Rust.
+## Blockchain Developer / Security Researcher
 
 ## What I have built:
 - Nexus Auctions (Dapp): Allows sellers to start owner approved ETH timed auctions. Upgrading to Token transactions.
