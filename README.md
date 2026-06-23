@@ -3,6 +3,9 @@
 
 ## Blockchain Developer / Security Researcher
 
+## Securty Research
+- Solved 20+ Ethernaut Levels
+
 ## What I have built:
 - Nexus Auctions (Dapp): Allows sellers to start owner approved ETH timed auctions. Upgrading to Token transactions.
 - 10+ smart contracts including DeFI, Governance, Tokenization
