@@ -4,7 +4,7 @@
 ## Blockchain Developer / Security Researcher
 
 ## Securty Research
-- Solved 20+ Ethernaut Levels -> [Documentation and Exploit Contracts for each level](https://github.com/Sammmmx/Ethernaut-Exploits)
+- Solved 30+ Ethernaut Levels -> [Documentation and Exploit Contracts for each level](https://github.com/Sammmmx/Ethernaut-Exploits)
 
 ## What I have built:
 - Nexus Auctions (Dapp): Allows sellers to start owner approved ETH timed auctions. Upgrading to Token transactions.
