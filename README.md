@@ -17,7 +17,7 @@ Rust | Solidity | Hardhat | Ethers.js | OpenZeppelin | Cairo |
 TypeScript | JavaScript | Node.js | Slither
 
 ## Education:
-- MCA graduating July 2026
+- MCA graduating 2026
 - BA graduated 2023
 
 ## Certifications:
