@@ -13,7 +13,7 @@
   ed25519 signatures, mempool, and account state management.
 
 ## Tech Stack:
-Rust | Solidity | Hardhat | Ethers.js | OpenZeppelin |
+Rust | Solidity | Hardhat | Ethers.js | OpenZeppelin | Cairo |
 TypeScript | JavaScript | Node.js | Slither
 
 ## Education:
