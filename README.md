@@ -1,5 +1,5 @@
 <h1 align="center">Samyak Narnaware</h1>
-<h3 align="center">Smart Contract Security Engineer · Mumbai, India</h3>
+<h3 align="center">Smart Contract Engineer / Auditor · Mumbai, India</h3>
 
 <p align="center">
 Focused on EVM exploit research, vulnerability analysis, and secure protocol development.
