@@ -86,8 +86,6 @@ run without a live database.
 ## Currently
 
 - 🔧 Extending the Job Application Tracker with more endpoints and better test coverage
-- 🦀 Building toward a Cairo/Starknet testnet deployment
-- 🔍 Working through more smart-contract vulnerability research
 
 ---
 
